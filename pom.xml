@@ -54,7 +54,7 @@
 						<id>jacoco-site</id>
 						<phase>package</phase>
 						<goals>
-							<goal>report</goal>
+							<goal>report2</goal>
 						</goals>
 					</execution>
 				</executions>
