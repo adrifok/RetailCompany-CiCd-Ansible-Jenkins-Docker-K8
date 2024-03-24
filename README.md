@@ -1,5 +1,4 @@
--Goal of the Project is to implement CI/CD such that a Retail Company is able to be:
-highly available, highly scalable, highly performant, easily built and maintained, developed and deployed quickly
+The goal of the project is to implement CI/CD so that a retail company's application can be: highly available, highly scalable, high performance, easy to build and maintain, and developed and deployed quickly.
 
 -Code developed with Java
 
